@@ -186,13 +186,13 @@ export const AG_GRID_LOCALE_PL = {
 
     // Menu
     pinColumn: 'Przypnij Kolumnę',
-    pinLeft: 'Przypnij z Lewa',
-    pinRight: 'Przypnij z Prawa',
+    pinLeft: 'Przypnij po Lewej',
+    pinRight: 'Przypnij po Prawej',
     noPin: 'Nie Przypinaj',
     valueAggregation: 'Agregacja Wartości',
     noAggregation: 'Brak',
-    autosizeThisColumn: 'Autozmiar tej Kolumny',
-    autosizeAllColumns: 'Autozmiar wszystkich Kolumn',
+    autosizeThisColumn: 'Autoszerokość tej Kolumny',
+    autosizeAllColumns: 'Autoszerokość wszystkich Kolumn',
     groupBy: 'Grupuj według',
     ungroupBy: 'Rozgrupuj według',
     ungroupAll: 'Rozgrupuj Wszystko',
