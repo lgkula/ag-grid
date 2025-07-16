@@ -559,7 +559,7 @@ export const AG_GRID_LOCALE_PL = {
     ariaHidden: 'ukryte',
     ariaIndeterminate: 'nieokreślone',
     ariaInputEditor: 'Edytor Wejścia',
-    ariaMenuColumn: 'Naciśnij ALT w dół, aby otworzyć menu kolumny',
+    ariaMenuColumn: 'Naciśnij ALT i strzałkę w dół, aby otworzyć menu kolumny',
     ariaFilterColumn: 'Naciśnij CTRL ENTER, aby otworzyć filtr',
     ariaRowDeselect: 'Naciśnij SPACJĘ, aby odznaczyć ten wiersz',
     ariaHeaderSelection: 'Kolumna z wyborem nagłówka',
@@ -578,7 +578,7 @@ export const AG_GRID_LOCALE_PL = {
     ariaPageSizeSelectorLabel: 'Rozmiar Strony',
     ariaChartMenuClose: 'Zamknij Menu Edycji Wykresu',
     ariaChartSelected: 'Wybrane',
-    ariaSkeletonCellLoadingFailed: 'Wiersz nie udało się załadować',
+    ariaSkeletonCellLoadingFailed: 'Wiersza nie udało się załadować',
     ariaSkeletonCellLoading: 'Dane wiersza ładują się',
     ariaDeferSkeletonCellLoading: 'Komórka się ładuje',
 
